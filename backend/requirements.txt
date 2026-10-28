@@ -1,0 +1,12 @@
+# Direct dependencies; full tested Python 3.11 resolution is in requirements-lock.txt.
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+pandas==2.3.3
+numpy==2.4.6
+catboost==1.2.10
+scikit-learn==1.9.1
+google-genai==1.75.0
+python-multipart==0.0.32
+python-dotenv==1.2.4
+httpx==0.28.1
+pytest==9.2.0
